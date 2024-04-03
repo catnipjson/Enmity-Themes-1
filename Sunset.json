@@ -1,22 +1,22 @@
 {
-    "name": "Sunset",
-    "description": "A theme made by Aymano200",
+    "name": "Katana",
+    "description": "A theme made by Vodka Martini",
     "authors": [
         {
-            "name": "Aymano200",
-            "id": "875843439151943690"
+            "name": "Vodka Martini",
+            "id": "1068030255455015013"
         }
     ],
   "spec": 2,
     "semanticColors": {
         "HEADER_PRIMARY": [
         
-            "#4e8478",
-            "#edd49b"
+            "#FCBF49",
+            "#FCBF49"
         ],
         "HEADER_SECONDARY": [
-            "#ffcdb2",
-            "#ffcdb2"
+            "#f9dec9",
+            "#f9dec9"
         ],
         "TEXT_NORMAL": [
             "#E9E9E9",
@@ -28,59 +28,58 @@
         ],
         "INTERACTIVE_NORMAL": [
             "#882521",
-            "#ffcdb2"
+            "#f9dec9"
         ],
         "INTERACTIVE_HOVER": [
-            "#ffcdb2",
-            "#ffcdb2"
+            "#f9dec9",
+            "#f9dec9"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#4e8478",
-            "#ffcdb2"
+            "#e9afa3",
+            "#f9dec9"
         ],
         "INTERACTIVE_MUTED": [
             "#A8A8A8",
             "#c9bbc8"
         ],
         "BACKGROUND_PRIMARY": [
-            "#121114",
-            "#161519"
+            "#B5838D",
+            "#6D6875"
         ],
         "BACKGROUND_SECONDARY": [
-            "#121114",
-            "#29272E"
+            "#F4A261",
+            "#E76F51"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#0E0D10",
-            "#0E0D10"
+            "#E76F51",
+            "#E76F51"
         ],
         "BACKGROUND_TERTIARY": [
-            "#121215",
-            "#121215"
+            "#E76F51",
+            "#E76F51"
         ],
         "BACKGROUND_ACCENT": [
-            "#33574F",
-            "#504863"
+            "#03071E",
+            "#03071E"
         ],
         "BACKGROUND_FLOATING": [
-            "#29272E",
-            "#29272E"
+            "#370617",
+            "#370617"
         ],
+         "BACKGROUND_NESTED_FLOATING": [
+            "#03071E",
+            "#03071E"
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#161519",
-            "#222228"
+            "#F4A261",
+            "#F4A261"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#121114",
-            "#161519"
-        ],
-        "BACKGROUND_NESTED_FLOATING": [
-            "#121114",
-            "#121114"
+            "#F4A261",
+            "#F4A261"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
-            "#1F1F2B",
-            "#1F1F2B"
+            "#F4A261",
+            "#F4A261"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
             "#1a1926",
@@ -116,7 +115,7 @@
         ],
         "CHANNEL_TEXT_AREA_PLACEHOLDER": [
             "#A9966A",
-            "#ffcdb2"
+            "#f9dec9"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
             "#111111",
@@ -131,8 +130,8 @@
             "#a297c3"
         ],
         "KEYBOARD": [
-            "#161519",
-            "#161519"
+            "#FFC47E",
+            "#FFAD84"
         ],
         "CHANNEL_ICON": [
             "#A7A7A7",
@@ -141,8 +140,8 @@
     },
     "rawColors": {
     "PRIMARY_DARK": "#4d4463",
-    "PRIMARY_100": "#4e8478",
-    "PRIMARY_200": "#ffcdb2",
+    "PRIMARY_100": "#e9afa3",
+    "PRIMARY_200": "#f9dec9",
     "PRIMARY_300": "#B6B6B6",
     "PRIMARY_360": "#4d4463",
     "PRIMARY_400": "#A9966A",
@@ -152,18 +151,18 @@
     "PRIMARY_660": "#111013",
     "PRIMARY_700": "#161519",
     "PRIMARY_800": "#161519",
-    "BRAND_260": "#4e8478",
+    "BRAND_260": "#e9afa3",
     "BRAND_360": "#4d4463",
-    "BRAND_500": "#4e8478",
-    "BRAND_560": "#ffcdb2",
+    "BRAND_500": "#e9afa3",
+    "BRAND_560": "#f9dec9",
     "BRAND_900": "#4d4463",
     "BRAND_NEW": "#a297c3",
-    "YELLOW_300": "#ffcdb2",
+    "YELLOW_300": "#f9dec9",
     "GREEN_360": "#882521",
     "DANGER": "#625682",
+    "WHITE": "#E9C46A",
     "RED_400": "#838784"
     },
-  
   "background": {
     "blur": 0.9,
     "url": "https://github.com/Aymano200/Enmity-Themes/releases/download/Sunset/IMG_5851.jpeg",

@@ -164,9 +164,9 @@
     "RED_400": "#838784"
     },
   "background": {
-    "blur": 0.9,
+    "blur": 1.5,
     "url": "https://github.com/Aymano200/Enmity-Themes/releases/download/Sunset/IMG_5851.jpeg",
-    "alpha": 1.0
+    "alpha": 0.7
   },
     "color": "#4d4463"
 }

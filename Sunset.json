@@ -7,10 +7,9 @@
             "id": "1068030255455015014"
         }
     ],
-  "spec": 2,
+    "spec": 2,
     "semanticColors": {
         "HEADER_PRIMARY": [
-        
             "#FCBF49",
             "#FCBF49"
         ],
@@ -66,9 +65,10 @@
             "#370617",
             "#370617"
         ],
-         "BACKGROUND_NESTED_FLOATING": [
+        "BACKGROUND_NESTED_FLOATING": [
             "#03071E",
             "#03071E"
+        ],
         "BACKGROUND_MOBILE_PRIMARY": [
             "#F4A261",
             "#F4A261"
@@ -139,33 +139,34 @@
         ]
     },
     "rawColors": {
-    "PRIMARY_DARK": "#4d4463",
-    "PRIMARY_100": "#e9afa3",
-    "PRIMARY_200": "#f9dec9",
-    "PRIMARY_300": "#B6B6B6",
-    "PRIMARY_360": "#4d4463",
-    "PRIMARY_400": "#A9966A",
-    "PRIMARY_500": "#882521",
-    "PRIMARY_600": "#121114",
-    "PRIMARY_630": "#262829",
-    "PRIMARY_660": "#111013",
-    "PRIMARY_700": "#161519",
-    "PRIMARY_800": "#161519",
-    "BRAND_260": "#e9afa3",
-    "BRAND_360": "#4d4463",
-    "BRAND_500": "#e9afa3",
-    "BRAND_560": "#f9dec9",
-    "BRAND_900": "#4d4463",
-    "BRAND_NEW": "#a297c3",
-    "YELLOW_300": "#f9dec9",
-    "GREEN_360": "#882521",
-    "DANGER": "#625682",
-    "WHITE": "#E9C46A",
-    "RED_400": "#838784"
+        "PRIMARY_DARK": "#4d4463",
+        "PRIMARY_100": "#e9afa3",
+        "PRIMARY_200": "#f9dec9",
+        "PRIMARY_300": "#B6B6B6",
+        "PRIMARY_360": "#4d4463",
+        "PRIMARY_400": "#A9966A",
+        "PRIMARY_500": "#882521",
+        "PRIMARY_600": "#121114",
+        "PRIMARY_630": "#262829",
+        "PRIMARY_660": "#111013",
+        "PRIMARY_700": "#161519",
+        "PRIMARY_800": "#161519",
+        "BRAND_260": "#e9afa3",
+        "BRAND_360": "#4d4463",
+        "BRAND_500": "#e9afa3",
+        "BRAND_560": "#f9dec9",
+        "BRAND_900": "#4d4463",
+        "BRAND_NEW": "#a297c3",
+        "YELLOW_300": "#f9dec9",
+        "GREEN_360": "#882521",
+        "DANGER": "#625682",
+        "WHITE": "#E9C46A",
+        "RED_400": "#838784"
     },
-  "background": {
-    "blur": 1.5,
-    "url": "https://github.com/Aymano200/Enmity-Themes/releases/download/Sunset/IMG_4713.jpeg",
-    "alpha": 0.7
-  }
+    "background": {
+        "blur": 1.5,
+        "url": "https://github.com/Aymano200/Enmity-Themes/releases/download/Sunset/IMG_4713.jpeg",
+        "alpha": 0.7
+    },
+    "color": "#4d4463"
 }

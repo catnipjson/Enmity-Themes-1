@@ -43,63 +43,63 @@
         ],
         "BACKGROUND_PRIMARY": [
             "#000000",
-            "#121212"
+            "#000000"
         ],
         "BACKGROUND_SECONDARY": [
-            "#f4a261",
-            "#e76f51"
+            "#121212",
+            "#121212"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#e76f51",
-            "#e76f51"
+            "#121212",
+            "#121212"
         ],
         "BACKGROUND_TERTIARY": [
-            "#e76F51",
-            "#e76F51"
+            "#121212",
+            "#121212"
         ],
         "BACKGROUND_ACCENT": [
-            "#03071e",
-            "#03071e"
+            "#121212",
+            "#121212"
         ],
         "BACKGROUND_FLOATING": [
-            "#370617",
-            "#370617"
+            "#121212",
+            "#121212"
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#03071e",
-            "#03071e"
+            "#121212",
+            "#121212"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#f4a261",
-            "#f4a261"
+            "#000000",
+            "#000000"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#f4a261",
-            "#f4a261"
+            "#121212",
+            "#121212"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
-            "#f4a261",
-            "#f4a261"
+            "#121212",
+            "#121212"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
-            "#1a1926",
-            "#1a1926"
+            "#121212",
+            "#121212"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#1F1F2B",
-            "#1F1F2B"
+            "#121212",
+            "#121212"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#3A1211",
-            "#373147"
+            "#121212",
+            "#121212"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#29272E",
-            "#29272E"
+            "#121212",
+            "#121212"
         ],
         "SCROLLBAR_THIN_THUMB": [
-            "#26273b",
-            "#26273b"
+            "#121212",
+            "#121212"
         ],
         "SCROLLBAR_THIN_TRACK": [
             "transparent",

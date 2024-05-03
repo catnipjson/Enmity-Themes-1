@@ -10,24 +10,24 @@
     "spec": 2,
     "semanticColors": {
         "HEADER_PRIMARY": [
-            "#FCBF49",
-            "#FCBF49"
+            "#1db954",
+            "#1db954"
         ],
         "HEADER_SECONDARY": [
-            "#f9dec9",
-            "#f9dec9"
+            "#1db954",
+            "#1db954"
         ],
         "TEXT_NORMAL": [
-            "#E9E9E9",
-            "#c8c8c8"
+            "#1db954",
+            "#1db954"
         ],
         "TEXT_MUTED": [
-            "#A9966A",
-            "#C8B68E"
+            "#1db954",
+            "#1db954"
         ],
         "INTERACTIVE_NORMAL": [
-            "#882521",
-            "#f9dec9"
+            "#1db954",
+            "#1db954"
         ],
         "INTERACTIVE_HOVER": [
             "#f9dec9",

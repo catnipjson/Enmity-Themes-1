@@ -106,8 +106,8 @@
             "transparent"
         ],
         "SCROLLBAR_AUTO_THUMB": [
-            "#26273b",
-            "#26273b"
+            "#1db954",
+            "#1db954"
         ],
         "SCROLLBAR_AUTO_TRACK": [
             "1a1926",
@@ -118,12 +118,12 @@
             "#1db954"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
-            "#111111",
-            "#111111"
+            "#121212",
+            "#121212"
         ],
         "CHANNELS_DEFAULT": [
-            "#414141",
-            "#7c6ea7"
+            "#121212",
+            "#121212"
         ],
         "TEXT_LINK": [
             "#1db954",

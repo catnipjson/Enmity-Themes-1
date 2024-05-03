@@ -30,16 +30,16 @@
             "#1db954"
         ],
         "INTERACTIVE_HOVER": [
-            "#f9dec9",
-            "#f9dec9"
+            "#1db954",
+            "#1db954"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#e9afa3",
-            "#f9dec9"
+            "#1db954",
+            "#1db954"
         ],
         "INTERACTIVE_MUTED": [
-            "#a8a8a8",
-            "#c9bbc8"
+            "#1db954",
+            "#1db954"
         ],
         "BACKGROUND_PRIMARY": [
             "#000000",
@@ -114,8 +114,8 @@
             "1a1926"
         ],
         "CHANNEL_TEXT_AREA_PLACEHOLDER": [
-            "#A9966A",
-            "#f9dec9"
+            "#1db954",
+            "#1db954"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
             "#111111",
@@ -126,20 +126,20 @@
             "#7c6ea7"
         ],
         "TEXT_LINK": [
-            "#a297c3",
-            "#a297c3"
+            "#1db954",
+            "#1db954"
         ],
         "KEYBOARD": [
-            "#BB3E03",
-            "#BB3E03"
+            "#121212",
+            "#121212"
         ],
         "CHANNEL_ICON": [
-            "#A7A7A7",
-            "#BFBFBF"
+            "#1db954",
+            "#1db954"
         ]
     },
     "rawColors": {
-        "PRIMARY_DARK": "#4d4463",
+        "PRIMARY_DARK": "#000000",
         "PRIMARY_100": "#e9afa3",
         "PRIMARY_200": "#f9dec9",
         "PRIMARY_300": "#B6B6B6",
@@ -163,10 +163,4 @@
         "WHITE": "#E9C46A",
         "RED_400": "#838784"
     },
-    "background": {
-        "blur": 5,
-        "url": "https://github.com/Aymano200/Enmity-Themes/releases/download/Sunset/IMG_4713.jpeg",
-        "alpha": 0.7
-    },
-    "color": "#4d4463"
 }
